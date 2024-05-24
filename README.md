@@ -44,3 +44,7 @@ Navigate to the Script Location:
 Use the cd command to navigate to the directory where you saved vcs_scanner.py
 
 and run the file. 
+
+
+Output 
+![image](https://github.com/Young-Thunder/Web-App_Scanner/assets/39808009/e71b62c2-8b88-469d-89dc-3f909e324e44)
